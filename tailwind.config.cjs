@@ -11,7 +11,7 @@ module.exports = {
         rose: '#d07c7c',
         red: '#E7A0A0',
         sand: '#F5EFD8',
-        blue: '#A9E7F5',
+        blue: '#BFF3FF',
         action: '#FFCBA9',
       },
     },

@@ -96,12 +96,13 @@
     </PaddingBox>
   </StandardBox>
 </div>
+
 <StandardBox>
   <PaddingBox>
     <div class="mt-8 mb-6">
       <p class="underline">Here’s how it is:</p>
     </div>
-    <div class="mt-4">
+    <div class="mt-4 mb-4">
       <p>Either…</p>
       <ol type="a">
         <div class="pl-16">
@@ -230,64 +231,86 @@
         </p>
         <p>So read on to decide for yourself if the process we use will be the right choice.</p>
       </div>
-      <div class="p-group">
-        <h2>
-          Here’s the kind of desire we want to create in the mind and body of your target market
-          (and how we’ll do it):
-        </h2>
-        <p>They see the link you posted on your social media account.</p>
-        <p>Something about the content posted above it speaks to them.</p>
-        <p>To their pains.</p>
-        <p>Their fears.</p>
-        <p>Their desires.</p>
-        <p>
-          It’s as if you know their inner thoughts: How else could you have articulated so clearly
-          what their life is like?
-        </p>
-        <p>
-          What it’s like to <span class="italic">want but not get</span> the thing your offer helps them
-          achieve?
-        </p>
-        <p>Their eyes squint in disbelief as they see the content.</p>
-        <p>“Is that real? Can they really help me get <span class="italic">that?"</span></p>
-        <p>“I have to find out how…”</p>
-        <p>They click the link and land on a page similar to this one.</p>
-        <p class="italic underline">The headline makes their eyes go big with excitement.</p>
-        <p>
-          The text begins to describe a scene depicting their ideal future – or one far better than
-          what they’d imagined before.
-        </p>
+    </div>
+  </PaddingBox>
+</StandardBox>
 
-        <p>
-          Your soon-to-be-customer imagines gaining a pleasant experience they’ve wanted for years
-          but never had.
-        </p>
-        <p>They imagine becoming a better person they’ve wanted to be.</p>
-        <p>They question how you can deliver the result, and then…</p>
-        <p>We show them how.</p>
-        <p>We show them proof.</p>
-        <p>Your offer becomes the bridge across a gap they never thought they’d cross.</p>
-        <p class="italic">
-          Your offer becomes their path to the dream girl/guy, the dream job, the early retirement,
-          the new house for them or their parents. The Ferrari and Rolex he knows he needs, the
-          waist she’s wanted back since college. The raise or promotion, the routine suave story,
-          the…
-        </p>
-        <p>You get the idea.</p>
-        <p>
-          In short, we will aim to have them “foaming at the mouth” as Nate Schmidt used to say.
-        </p>
-        <p class="italic">
-          Your sales page will show them the completely believable yet hard to anticipate truth:
-        </p>
-        <p class="italic">
-          That your offer will give them a transformation of their dreams *if* they apply it.
-        </p>
-        <p class="italic">If they “buy but don’t try,” too bad.</p>
-        <p class="italic">Not your problem.</p>
-        <p>So how do we create that desire for the buyer?</p>
-        <p>How do we link the investment with a certain transformation?</p>
+<div class="bg-nigh-black">
+  <StandardBox>
+    <PaddingBox>
+      <div class="p-group mt-4 pt-6 pb-10 text-off-white">
+        <h2 class="mt-4">
+          Here’s the kind of <span class="text-blue">rush of desire</span> we want to create in the mind
+          and body of your target market (and how we’ll do it):
+        </h2>
       </div>
+    </PaddingBox>
+  </StandardBox>
+</div>
+
+<StandardBox>
+  <PaddingBox>
+    <div class="p-group mt-8">
+      <p>They see the link you posted on your social media account.</p>
+      <p>Something about the content posted above it speaks to them.</p>
+      <p>To their pains.</p>
+      <p>Their fears.</p>
+      <p>Their desires.</p>
+      <p>
+        It’s as if you know their inner thoughts: How else could you have articulated so clearly
+        what their life is like?
+      </p>
+      <p>
+        What it’s like to <span class="italic">want but not get</span> the thing your offer helps them
+        achieve?
+      </p>
+      <p>Their eyes squint in disbelief as they see the content.</p>
+      <p>“Is that real? Can they really help me get <span class="italic">that?"</span></p>
+      <p>“I have to find out how…”</p>
+      <p>They click the link and land on a page similar to this one.</p>
+      <p class="italic underline">The headline makes their eyes go big with excitement.</p>
+      <p>
+        The text begins to describe a scene depicting their ideal future – or one far better than
+        what they’d imagined before.
+      </p>
+
+      <p>
+        Your soon-to-be-customer imagines gaining a pleasant experience they’ve wanted for years but
+        never had.
+      </p>
+      <p>They imagine becoming a better person they’ve wanted to be.</p>
+      <p>They question how you can deliver the result, and then…</p>
+      <p>We show them how.</p>
+      <p>We show them proof.</p>
+      <p>Your offer becomes the bridge across a gap they never thought they’d cross.</p>
+      <p class="italic">
+        Your offer becomes their path to the dream girl/guy, the dream job, the early retirement,
+        the new house for them or their parents. The Ferrari and Rolex he knows he needs, the waist
+        she’s wanted back since college. The raise or promotion, the routine suave story, the…
+      </p>
+      <p>You get the idea.</p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<!-- @@@@@@@ -->
+<!-- little segue -->
+<!-- @@@@@@@ -->
+
+<StandardBox
+  ><PaddingBox>
+    <div class="p-group">
+      <p>In short, we will aim to have them “foaming at the mouth” as Nate Schmidt used to say.</p>
+      <p class="italic">
+        Your sales page will show them the completely believable yet hard to anticipate truth:
+      </p>
+      <p class="italic">
+        That your offer will give them a transformation of their dreams *if* they apply it.
+      </p>
+      <p class="italic">If they “buy but don’t try,” too bad.</p>
+      <p class="italic">Not your problem.</p>
+      <p>So how do we create that desire for the buyer?</p>
+      <p>How do we link the investment with a certain transformation?</p>
     </div>
   </PaddingBox>
 </StandardBox>
@@ -299,106 +322,113 @@
 <StandardBox
   ><PaddingBox>
     <div>
-      <h2>
+      <h2 class="mt-4 text-center">
         Discover the complete process we’ll use, including the tools and techniques of persuasion
         that will be everywhere in your sales page.
       </h2>
     </div>
-    <div><h3 class="mt-4 mb-8 underline text-center text-4xl">The process</h3></div>
-    <div class="p-group">
-      <h4 class="text-3xl">Critical step #1</h4>
-      <p>
-        You are prepared to make cash by posting social media content every day or almost every day.
-      </p>
-      <p>
-        You must be willing and able to drive traffic to your funnel, or nothing you do on the sales
-        page will matter one bit.
-      </p>
-      <h4 class="text-3xl">Critical step #2</h4>
-
-      <p>Be prepared to adhere to the previous step for many months or possibly years.</p>
-      <p>A quality sales page stops working when you stop driving traffic to it.</p>
-      <p>
-        If your sales page is “good enough” you can keep the same zero-cost funnel running day and
-        night for years.
-      </p>
-      <p class="underline">
-        If you are both willing and able to commit to following those steps, read on.
-      </p>
-    </div>
-    <div class="p-group">
-      <h2 class="mt-4">
-        You might have a great offer that nonetheless <span class="italic">looks</span> doomed to failure
-        because of the “saturated” nature of your market.
-      </h2>
-      <p>That is completely fine.</p>
-      <p>
-        In fact, most extraordinary performers in your space once looked like generic,
-        undifferentiated commodities.
-      </p>
-      <p>
-        That is the starting state of most offers that don’t have a genius marketer work on them.
-      </p>
-      <p>You will be fine or better than fine.</p>
-      <p>Because you don’t have to:</p>
-      <ul>
-        <li>
-          Drop 6 figures per year on a marketing agency to make and “maintain” your marketing.
-        </li>
-        <li>
-          Drop yet another 6 figures on a market research firm to “discover” what you likely already
-          know about your buyers.
-        </li>
-        <li>
-          Grind through 8 weeks of evenings and weekends while holding down your 9-5 to handle your
-          marketing.
-        </li>
-      </ul>
-      <h2 class="underline mt-4">Here’s the ingredients of a successful offer:</h2>
-      <ol type="1" class="mixed-group">
-        <li class="list-decimal ml-12">Your offer itself needs to be unique.</li>
-        <p>
-          You might think the way to succeed is to “be the best”... But when every offer out there
-          is saying it, it’s really about how you’re different. What can they get from you but no
-          one else?
-        </p>
-        <li class="list-decimal ml-12">You need to have proof that it works.</li>
-        <p>
-          Every potential buyer and their mom will have the same question: Will this work for me?
-        </p>
-        <p>
-          We’ll show them why those doubts and fears are unfounded in such a way that you yourself
-          are certain all your customers can be helped.
-        </p>
-        <li class="list-decimal ml-12">What makes it scarce or exclusive?</li>
-        <p>
-          Free game: <span class="underline"
-            >When you’re below 10,000 Twitter followers, and you’re the only one offering a specific
-            piece of advice, your help is, by definition, both</span
-          >.
-        </p>
-        <li class="list-decimal ml-12">How is it completely risk-free?</li>
-        <p>
-          People avoid the unsafe and are drawn towards guarantees. This isn’t skydiving or
-          entrepreneurship, which attracts risk-takers. Most people are afraid to lose money and so
-          we’ll show them how the real risk is missing out on buying.
-        </p>
-      </ol>
-      <p class="underline">
-        But even if you have absolutely no idea how to answer these questions at the moment...
-      </p>
-      <p>
-        You’re in luck: Fortunately, you don’t need to have an answer to any of these questions
-        right this second.
-      </p>
-      <p>We’ll talk and I’ll <span class="underline">give you answers</span> to all of them.</p>
-      <p>
-        Then I’ll write for two weeks (tops) and you will receive a full sales page absolutely
-        filled with psychology and sales techniques.
-      </p>
-      <p>By the end of the page, your soon-to-be-customers will be dying to have your product.</p>
-    </div>
   </PaddingBox></StandardBox
+>
+
+<WideBox>
+  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-sand">
+    <h3 class="mt-4 mb-8 underline text-center text-4xl">The process: Two critical steps</h3>
+    <h4 class="underline text-3xl">Critical step #1</h4>
+    <p>Be prepared to make cash by posting social media content every day or almost every day.</p>
+    <p>
+      You must be willing and able to drive traffic to your funnel, or nothing you do on the sales
+      page will matter one bit.
+    </p>
+    <h4 class="mt-4 underline text-3xl">Critical step #2</h4>
+
+    <p>Be prepared to adhere to the previous step for many months or possibly years.</p>
+    <p>A quality sales page stops working when you stop driving traffic to it.</p>
+    <p>
+      If your sales page is “good enough” you can keep the same zero-cost funnel running day and
+      night for years.
+    </p>
+    <p class="underline">
+      If you are both willing and able to commit to following those steps, read on.
+    </p>
+  </div>
+</WideBox>
+<StandardBox
+  ><PaddingBox>
+    <div>
+      <div class="p-group">
+        <h2 class="mt-4">
+          You might have a great offer that nonetheless <span class="italic">looks</span> doomed to failure
+          because of the “saturated” nature of your market.
+        </h2>
+        <p>That is completely fine.</p>
+        <p>
+          In fact, most extraordinary performers in your space once looked like generic,
+          undifferentiated commodities.
+        </p>
+        <p>
+          That is the starting state of most offers that don’t have a genius marketer work on them.
+        </p>
+        <p>You will be fine or better than fine.</p>
+        <p>Because you don’t have to:</p>
+        <ul>
+          <li>
+            Drop 6 figures per year on a marketing agency to make and “maintain” your marketing.
+          </li>
+          <li>
+            Drop yet another 6 figures on a market research firm to “discover” what you likely
+            already know about your buyers.
+          </li>
+          <li>
+            Grind through 8 weeks of evenings and weekends while holding down your 9-5 to handle
+            your marketing.
+          </li>
+        </ul>
+        <h2 class="underline mt-4">Here’s the ingredients of a successful offer:</h2>
+        <ol type="1" class="mixed-group">
+          <li class="list-decimal ml-12">Your offer needs to be unique.</li>
+          <p>
+            You might think the way to succeed is to “be the best”... But when every offer out there
+            is saying it, it’s really about how you’re different. What can they get from you but no
+            one else?
+          </p>
+          <li class="list-decimal ml-12">You need to have proof that it works.</li>
+          <p>
+            Every potential buyer and their mom will have the same question: Will this work for me?
+          </p>
+          <p>
+            We’ll show them why those doubts and fears are unfounded in such a way that you yourself
+            are certain all your customers can be helped.
+          </p>
+          <li class="list-decimal ml-12">What makes it scarce or exclusive?</li>
+          <p>
+            Free game: <span class="underline"
+              >When you’re below 10,000 Twitter followers, and you’re the only one offering a
+              specific piece of advice, your help is, by definition, both</span
+            >.
+          </p>
+          <li class="list-decimal ml-12">How is it completely risk-free?</li>
+          <p>
+            People avoid the unsafe and are drawn towards guarantees. This isn’t skydiving or
+            entrepreneurship, which attracts risk-takers. Most people are afraid to lose money and
+            so we’ll show them how the real risk is missing out on buying.
+          </p>
+        </ol>
+        <p class="underline">
+          But even if you have absolutely no idea how to answer these questions at the moment...
+        </p>
+        <p>
+          You’re in luck: Fortunately, you don’t need to have an answer to any of these questions
+          right this second.
+        </p>
+        <p>We’ll talk and I’ll <span class="underline">give you answers</span> to all of them.</p>
+        <p>
+          Then I’ll write for two weeks (tops) and you will receive a full sales page absolutely
+          filled with psychology and sales techniques.
+        </p>
+        <p>By the end of the page, your soon-to-be-customers will be dying to have your product.</p>
+      </div>
+    </div></PaddingBox
+  ></StandardBox
 >
 
 <!-- ################ -->
@@ -685,9 +715,11 @@
           <li class="list-disc">How to Argue and Win Every Time by Gerry Spence (292 pages)</li>
         </ul>
       </ExtraPaddingLeft>
-      <h3 class="mt-4 font-bold text-3xl text-red">
-        You could be a dopamine fiend and set out to read all of those yourself.
-      </h3>
+      <div class="bg-off-white mt-4 px-20 py-4">
+        <h3 class="font-bold text-3xl text-red">
+          You could be a dopamine fiend and set out to read all of those yourself.
+        </h3>
+      </div>
       <p>(I only read some of them.)</p>
 
       <p>But should you do this?</p>
@@ -749,7 +781,7 @@
         Here’s what will save you reading 1903 pages of text, working for a year in sales, and
         spending $4,000 on in-person hypnotism training:
       </h2>
-      <p>Hiring me.</p>
+      <p>Working with me.</p>
 
       <h3 class="mt-4 text-xl">Who am I?</h3>
 
@@ -757,13 +789,16 @@
 
       <p>What’s the difference between Cicada and “the other options”?</p>
 
-      <p>Other copywriters want you to be ready to invest $10,000+ to get a quality page.</p>
+      <p>
+        <span class="underline">Difference #1</span>: Other copywriters want you to be ready to
+        invest $10,000+ to get a quality page.
+      </p>
 
       <p>Cicada is happy to help someone who can’t afford a $100,000 or even $10,000 sales page.</p>
 
       <p>
-        Other copywriters want your offer to already be moving $5,000/month. (Because otherwise they
-        aren’t sure they can sell it).
+        <span class="underline">Difference #2</span>: Other copywriters want your offer to already
+        be moving $5,000/month. (Because otherwise they aren’t sure they can sell it).
       </p>
 
       <p>
@@ -791,7 +826,7 @@
     <!-- ################################################### -->
     <!-- the "so and so wants to close the loophole" section -->
     <!-- ################################################### -->
-    <div class="p-group">
+    <div class="p-group mb-4">
       <h2 class="mt-4">
         Your boss wants you to be <span class="font-bold"
           >stuck working for less than you’re worth</span
