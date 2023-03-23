@@ -1,4 +1,5 @@
 <script>
+  import BigBeautifulButton from '../components/BigBeautifulButton.svelte'
   import ExtraPaddingLeft from '../components/ExtraPaddingLeft.svelte'
   import GreenBox from '../components/GreenBox.svelte'
   import PaddingBox from '../components/PaddingBox.svelte'
@@ -160,7 +161,7 @@
         <p>“I’ve reached abundance.”</p>
       </div>
       <div class="p-group">
-        <h2>Tell me something:</h2>
+        <h2 class="mt-4">Tell me something:</h2>
         <p class="font-bold">
           What would it feel like to show a significant other an email inbox with four sales
           notifications from the same day?
@@ -178,7 +179,7 @@
         </p>
       </div>
       <div class="p-group">
-        <h2>
+        <h2 class="mt-4">
           If you’re right for this offer, you know you want regular WiFi Money payouts, but you
           don’t know exactly how to get there.
         </h2>
@@ -212,7 +213,7 @@
         <p>You need to be prepared for success, because, boy howdy, you’re going to get it.</p>
       </div>
       <div class="p-group">
-        <h2>
+        <h2 class="mt-4">
           To prepare, you want to know if you’re making the right decision for yourself and your
           offer.
         </h2>
@@ -303,9 +304,9 @@
         that will be everywhere in your sales page.
       </h2>
     </div>
-    <div><h3 class="underline text-center">The process</h3></div>
+    <div><h3 class="mt-4 mb-8 underline text-center text-4xl">The process</h3></div>
     <div class="p-group">
-      <h4>Critical step #1</h4>
+      <h4 class="text-3xl">Critical step #1</h4>
       <p>
         You are prepared to make cash by posting social media content every day or almost every day.
       </p>
@@ -313,7 +314,7 @@
         You must be willing and able to drive traffic to your funnel, or nothing you do on the sales
         page will matter one bit.
       </p>
-      <h4>Critical step #2</h4>
+      <h4 class="text-3xl">Critical step #2</h4>
 
       <p>Be prepared to adhere to the previous step for many months or possibly years.</p>
       <p>A quality sales page stops working when you stop driving traffic to it.</p>
@@ -326,10 +327,10 @@
       </p>
     </div>
     <div class="p-group">
-      <p>
+      <h2 class="mt-4">
         You might have a great offer that nonetheless <span class="italic">looks</span> doomed to failure
         because of the “saturated” nature of your market.
-      </p>
+      </h2>
       <p>That is completely fine.</p>
       <p>
         In fact, most extraordinary performers in your space once looked like generic,
@@ -353,7 +354,7 @@
           marketing.
         </li>
       </ul>
-      <p class="underline">Here’s the ingredients of a successful offer:</p>
+      <h2 class="underline mt-4">Here’s the ingredients of a successful offer:</h2>
       <ol type="1" class="mixed-group">
         <li class="list-decimal ml-12">Your offer itself needs to be unique.</li>
         <p>
@@ -406,7 +407,7 @@
 
 <StandardBox
   ><PaddingBox>
-    <div class="p-group">
+    <div class="p-group mt-4 mb-8">
       <h2>
         Ask me how I’ll do it and I’ll tell you exactly what I do to accomplish this. In fact, I’ll
         tell you now so you can head off to write your own page if you want to.
@@ -670,10 +671,12 @@
       </p>
     </div>
     <div class="p-group">
-      <h2>Not sure you need anyone’s help? Here’s what you could do to do this yourself.</h2>
+      <h2 class="mt-4">
+        Not sure you need anyone’s help? Here’s what you could do to do this yourself.
+      </h2>
       <p>Start by reading the following list of books:</p>
       <ExtraPaddingLeft>
-        <ul>
+        <ul class="mt-4">
           <li class="list-disc">Dotcom Secrets (424 pages)</li>
           <li class="list-disc">The Ultimate Sales Letter (240 pages)</li>
           <li class="list-disc">Influence by Dr Robert Cialdini (320 pages)</li>
@@ -682,7 +685,7 @@
           <li class="list-disc">How to Argue and Win Every Time by Gerry Spence (292 pages)</li>
         </ul>
       </ExtraPaddingLeft>
-      <h3 class="font-bold text-3xl text-red">
+      <h3 class="mt-4 font-bold text-3xl text-red">
         You could be a dopamine fiend and set out to read all of those yourself.
       </h3>
       <p>(I only read some of them.)</p>
@@ -742,13 +745,13 @@
       <p>You can skip the whole thing.</p>
     </div>
     <div class="p-group">
-      <h2>
+      <h2 class="mt-4">
         Here’s what will save you reading 1903 pages of text, working for a year in sales, and
         spending $4,000 on in-person hypnotism training:
       </h2>
       <p>Hiring me.</p>
 
-      <h3>Who am I?</h3>
+      <h3 class="mt-4 text-xl">Who am I?</h3>
 
       <p>Cicada is a helpful bug on the Internet who is in a similar position as you.</p>
 
@@ -770,7 +773,7 @@
 
       <p class="font-bold">
         Cicada wants you to receive <span class="underline"
-          >a sales page that <span class="text-red">demands</span> recognition of the offer’s quality</span
+          >a sales page that <span class="text-rose">demands</span> recognition of the offer’s quality</span
         >.
       </p>
 
@@ -789,9 +792,10 @@
     <!-- the "so and so wants to close the loophole" section -->
     <!-- ################################################### -->
     <div class="p-group">
-      <h2>
-        Your boss wants you to be stuck working for less than you’re worth so he never has to
-        explain to his boss why he gave you a raise.
+      <h2 class="mt-4">
+        Your boss wants you to be <span class="font-bold"
+          >stuck working for less than you’re worth</span
+        > so he never has to explain to his boss why he gave you a raise.
       </h2>
       <p>Your coworkers are content with you being on their level or a bit lower.</p>
 
@@ -845,50 +849,305 @@
 <!-- Try It Risk Free -->
 <!-- ################ -->
 
-<StandardBox
-  ><PaddingBox>
+<WideBox>
+  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-sand">
+    <h2 class="mt-4 underline font-bold text-center pr-12">Try It Risk Free</h2>
+    <p>Here’s what you’re <span class="underline">guaranteed</span> to get out of this:</p>
+
+    <p>
+      You will learn more about your customers, which means your intuition about what they want to
+      buy will improve.
+    </p>
+
+    <p>
+      As part of the process, we’ll have 1 on 1s with people who have bought from you or are already
+      using your free content.
+    </p>
+
+    <p>
+      That means you’ll find out what your target market really wants. If your beliefs about them
+      are incomplete, you’ll fill in the gaps. If you’re completely wrong about how they want to use
+      your offer, you’ll find out!
+    </p>
+
+    <p>You will see different ways to think about your offers.</p>
+
+    <p>
+      What is obvious to me might not be obvious to you, and vice versa. By taking advantage of this
+      offer, you’ll receive an in depth look at how you could position your offer.
+    </p>
+
+    <p>You will learn more about what works and doesn’t work.</p>
+
+    <p>
+      I expect the sales page I give you to convert, and will say no to anyone whose page I don’t
+      think I can beat. However, supposing the page I give you performs worse, you’ll receive a full
+      retrospective about what I think I got wrong.
+    </p>
+
+    <p>
+      These are all guaranteed upsides to happen as a result of participating. You won’t lose
+      anything by participating in the offer.
+    </p>
+  </div>
+</WideBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div class="p-group mt-8">
+      <h2 class="mt-4">But the potential upside is enormous.</h2>
+
+      <p>If you currently have no sales material, or a page you wrote yourself…</p>
+
+      <p>
+        You’ll receive an aesthetic, psychology-laden sales page. It will convert and you’ll go from
+        $0/month to $1,000 / week and beyond for as long as you’re sending it traffic.
+      </p>
+
+      <p>This offer won’t last forever.</p>
+
+      <p>
+        You are reading about an offer that I guarantee will disappear within a few months’ time.
+      </p>
+
+      <p>
+        Blackhatwizard correctly states that doing work for free in the beginning is a good
+        strategy.
+      </p>
+
+      <p>However:</p>
+
+      <ol type="a">
+        <li>I only have room for so many clients.</li>
+        <p>
+          If you are able to view this page, it means I have room for more. But I’ve already agreed
+          to help five people. Odds are they’ll receive their sales pages, post them, realize the
+          page rains cash, and I’ll move on to promoting a paid offer.
+        </p>
+        <li>I’ll only be doing this for a few months at most.</li>
+      </ol>
+      <p>
+        You can tell I am great at writing and highly creative. Having practiced sales in one form
+        or another for half a decade, you can be certain this offer will cost money in the near
+        future.
+      </p>
+
+      <p>In the meantime, you can get a sales letter written for your product for free.</p>
+      <h2 class="mt-4">“But what do you get out of doing it for free?”</h2>
+      <p>
+        90% of people who receive this free help will do something to pay me back. Indeed helping
+        people out without asking anything in return is a great reward.
+      </p>
+
+      <p>
+        If you sense you will be among the 90%, you are welcome to proceed. If you are among the 10%
+        who has no intention of paying me back, you are also welcome to proceed!
+      </p>
+
+      <p>However, both types of people should be aware…</p>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<!-- ######### -->
+<!-- the catch -->
+<!-- ######### -->
+
+<StandardBox>
+  <PaddingBox>
     <div class="p-group">
-      <h2 class="underline italic">Try It Risk Free</h2>
-      <p>Here’s what you’re guaranteed to get out of this:</p>
+      <h2 class="mt-4 italic text-center">
+        Ah, here it is, you knew it was coming: <br /> The catch
+      </h2>
+
+      <p>You are either pre-sales or early on in your WiFi money sales career.</p>
 
       <p>
-        You will learn more about your customers, which means your intuition about what they want to
-        buy will improve.
+        You have my empathy as I understand what it’s like to spend weeks crafting a PDF, sell it
+        using a Twitter account, and hope that it frees you from relying on the 9-5.
       </p>
 
       <p>
-        As part of the process, we’ll have 1 on 1s with people who have bought from you or are
-        already using your free content.
+        To hope you’re finally able to take the WSPB’s advice of “de-risking” by having multiple
+        income streams.
+      </p>
+
+      <p>It’s hard to do.</p>
+
+      <p>Inventing an idea that will sell is hard.</p>
+
+      <p>Committing to pursuing an idea is hard.</p>
+
+      <p class="italic">Seeing it flop is hardest of all.</p>
+
+      <p>So while I will bust my ass writing to help you, you are asked to repay the favor by:</p>
+
+      <ol type="1" class="mixed-group">
+        <li class="ml-12 list-decimal">
+          Writing a testimonial describing how the sales letter changed your WiFi money business.
+        </li>
+
+        <p>You can help me out big time by describing:</p>
+
+        <ul class="ml-12">
+          <li class="list-disc">Where you were before you found me</li>
+          <li class="list-disc">What stopped you from selling without me</li>
+          <li class="list-disc">What it was like to have someone handle selling for you</li>
+        </ul>
+
+        <p>And then…</p>
+
+        <ul class="ml-12">
+          <li class="list-disc">How far you made it in 1-2 months using the sales page</li>
+          <li class="list-disc">What it was like to have the sales</li>
+        </ul>
+
+        <p>The other thing you can provide is:</p>
+
+        <li class="ml-12 list-decimal">
+          Sales data from previous traffic (e.g. through Gumroad). Please provide copious
+          before/after screenshots, identifying info removed.
+        </li>
+
+        <p>My goal is to prove what I already know:</p>
+
+        <p class="italic">That my sales letters sell and sell well.</p>
+
+        <p>That is the second half of the transaction.</p>
+
+        <p>So yes, it does cost some time and energy to participate.</p>
+      </ol>
+    </div>
+  </PaddingBox>
+</StandardBox>
+
+<!-- ########################## -->
+<!-- Frequently Asked Questions -->
+<!-- ########################## -->
+
+<WideBox>
+  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-blue">
+    <h2 class="mt-4 underline font-bold text-center pr-8">Frequently Asked Questions</h2>
+    <h3 class="mt-4 text-2xl">Q: “What if I don’t have a product or service ready to sell?”</h3>
+
+    <p>
+      A: You are welcome to message me for free brainstorming about what you could sell, what you
+      could offer. So long as you commit to posting the page until it gets to 10,000 views, you are
+      welcome to tell me “I only have an idea.” We can do a pre-sale, or in other words, “Sell it
+      before you build it.”
+    </p>
+
+    <h3 class="mt-4 text-2xl">Q: “Why is it free?”</h3>
+
+    <p>
+      A: Some people like to sell their service before they’ve lifted a finger to confirm they can
+      perform. I am the opposite. Your results will go with me as case studies to my first paid
+      clients.
+    </p>
+
+    <h3 class="mt-4 text-2xl">Q: “This won’t work for me.”</h3>
+
+    <p>
+      A: Without knowing exactly why you say that, you can be sure that as long as you put the sales
+      page in front of 10,000 people, you will make 100 sales. That is a 1% conversion rate and is
+      achievable.
+    </p>
+
+    <h3 class="mt-4 text-2xl">
+      Q: “What if I can’t or won’t put in 10-20 hours to help research the market?”
+    </h3>
+
+    <p>
+      If you want to speedrun your part of the bargain, you can complete the entire onboarding
+      process in three hours. All you have to do is indicate to in clear language that:
+    </p>
+
+    <ol type="a" class="ml-12">
+      <li class="list-decimal">
+        You understand that your sales would perform better with research.
+      </li>
+      <li class="list-decimal">You commit to posting the page until it gets 10,000 views.</li>
+    </ol>
+
+    <p>
+      If you confirm that you’d prefer “Low inputs + decent payoff” to “high inputs + great payoff,”
+      I’m happy to bang out a sales page in 48 hours with little research.
+    </p>
+    <p>
+      However, I recommend you don’t make a habit of it. <span class="font-bold"
+        >The version made with 20 hours of research put into it will sell better and net you
+        hundreds of more sales across a twelve month timeframe.</span
+      >
+    </p>
+  </div>
+</WideBox>
+
+<StandardBox>
+  <PaddingBox>
+    <div class="p-group">
+      <h2 class="mt-4">
+        If you haven’t sold your first $100 online, you don’t know how good that first sale feels
+      </h2>
+      <h2 class="mt-4">
+        If you’re already making sales online, you know that the notification of a transaction is a
+        rush like no other.
+      </h2>
+      <p>
+        Either way, you know you want to sell so often that the rush goes away, and you’re just…
+      </p>
+
+      <p>Wealthy.</p>
+
+      <p>At which point a sale is a notification like any other.</p>
+
+      <p>But so far, the notifications don’t bore you yet.</p>
+
+      <p>
+        Because you are at the point where a 5 figure price tag on a sales funnel that might not
+        work is too risky.
+      </p>
+
+      <p>So sign up today to work with Cicada (before someone else takes your spot).</p>
+    </div>
+    <div class="mt-6 mb-12 w-full flex justify-center">
+      <BigBeautifulButton />
+    </div>
+    <div class="p-group">
+      <h2 class="mt-4">And get these bonuses when you sign up today:</h2>
+
+      <p>
+        <span class="underline">BONUS #1</span>: Learn a repeatable routine you can use right from
+        your Twitter account to craft your own money making machines and boost your sales. (Hint: If
+        you’re already doing it, you’ll know you’re on the right path.)
       </p>
 
       <p>
-        That means you’ll find out what your target market really wants. If your beliefs about them
-        are incomplete, you’ll fill in the gaps. If you’re completely wrong about how they want to
-        use your offer, you’ll find out!
-      </p>
-
-      <p>You will see different ways to think about your offers.</p>
-
-      <p>
-        What is obvious to me might not be obvious to you, and vice versa. By taking advantage of
-        this offer, you’ll receive an in depth look at how you could position your offer.
-      </p>
-
-      <p>You will learn more about what works and doesn’t work.</p>
-
-      <p>
-        I expect the sales page I give you to convert, and will say no to anyone whose page I don’t
-        think I can beat. However, supposing the page I give you performs worse, you’ll receive a
-        full retrospective about what I think I got wrong.
+        <span class="underline">BONUS #2</span>: Receive a popular interview that will help you 10x
+        your sales.
       </p>
 
       <p>
-        These are all guaranteed upsides to happen as a result of participating. You won’t lose
-        anything by participating in the offer.
+        <span class="underline">BONUS #3</span>: Find out how $17.99 can get you the exact advice
+        you’d get from a world class online salesman. (Hint: This will give you a wealth of ideas
+        about what to sell next.)
+      </p>
+
+      <p>
+        <span class="underline">BONUS #4</span>: See four high performing, master-made sales pages
+        (that will show you how a sales page can sell… without looking “scammy”)
+      </p>
+
+      <p>
+        Get these bonuses and a sales page for your offer today. You will receive a page that
+        <span class="underline">converts so well you’ll demand I accept a commission</span>. Click
+        below to sign up.
       </p>
     </div>
-  </PaddingBox></StandardBox
->
+    <div class="mt-12 mb-64 w-full flex justify-center">
+      <BigBeautifulButton />
+    </div>
+  </PaddingBox>
+</StandardBox>
 
 <style>
   h1 {
