@@ -1,9 +1,3 @@
-<div class="standard-padding">
+<div class="px-20">
   <slot />
 </div>
-
-<style>
-  .standard-padding {
-    padding: 0px 30px;
-  }
-</style>
