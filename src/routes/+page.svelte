@@ -10,7 +10,7 @@
 </script>
 
 <div class="w-full flex flex-col items-center bg-nigh-black">
-  <div class="w-8/12 mt-16 h-full">
+  <div class="w-11/12 sm:w-10/12 md:w-8/12 mt-16 h-full">
     <div class="pb-12 h-3/5 flex items-center">
       <h1 class="font-bold text-center text-off-white">
         Get Your <span class="text-red">Money Making Machine</span> Running 24/7 Using a Psychology-Laden
@@ -18,7 +18,7 @@
       </h1>
     </div>
     <div class="h-2/5">
-      <div class="h-full px-20 py-8 flex items-center bg-sand">
+      <div class="h-full px-4 sm:px-12 lg:px-40 py-8 flex items-center bg-sand">
         <h2 class="font-bold text-center text-nigh-black">
           What if you had a beautiful website that would do the selling for you just by sending it
           traffic?
@@ -28,7 +28,7 @@
   </div>
 </div>
 <div class="pb-8 w-full flex flex-col items-center">
-  <div class="w-8/12">
+  <div class="w-11/12 sm:w-10/12 md:w-8/12">
     <div class="px-10 mt-8">
       <h2 class="font-bold">
         Introducing <span class="italic">The Cicada Sales Letter,</span> the profitable business starting
@@ -36,7 +36,7 @@
       </h2>
     </div>
     <div class="w-full mt-4 flex justify-center">
-      <ul class="w-10/12 list-with-bullets">
+      <ul class="w-11/12 sm:w-10/12 list-with-bullets">
         <li class="list-disc">Want a low-stakes entrypoint into a full fledged sales funnel.</li>
         <li class="list-disc">
           Understand that they don’t specialize in sales & want to hire an expert.
@@ -66,7 +66,7 @@
       <h2 class="mt-4">Now let’s see who it’s not for:</h2>
     </div>
     <div class="w-full mt-4 flex justify-center">
-      <ul class="w-10/12 list-with-bullets">
+      <ul class="w-11/12 sm:w-10/12 list-with-bullets">
         <li class="list-disc">You’re looking to make a quick buck.</li>
         <li class="list-disc">You aren’t sure WiFi money is for you.</li>
         <li class="list-disc">You need to start with “the perfect funnel.”</li>
@@ -331,7 +331,7 @@
 >
 
 <WideBox>
-  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-sand">
+  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-sand">
     <h3 class="mt-4 mb-8 underline text-center text-4xl">The process: Two critical steps</h3>
     <h4 class="underline text-3xl">Critical step #1</h4>
     <p>Be prepared to make cash by posting social media content every day or almost every day.</p>
@@ -715,7 +715,7 @@
           <li class="list-disc">How to Argue and Win Every Time by Gerry Spence (292 pages)</li>
         </ul>
       </ExtraPaddingLeft>
-      <div class="bg-off-white mt-4 px-20 py-4">
+      <div class="bg-off-white mt-4 px-4 sm:px-12 lg:px-40 py-4">
         <h3 class="font-bold text-3xl text-red">
           You could be a dopamine fiend and set out to read all of those yourself.
         </h3>
@@ -885,7 +885,7 @@
 <!-- ################ -->
 
 <WideBox>
-  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-sand">
+  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-sand">
     <h2 class="mt-4 underline font-bold text-center pr-12">Try It Risk Free</h2>
     <p>Here’s what you’re <span class="underline">guaranteed</span> to get out of this:</p>
 
@@ -932,7 +932,7 @@
     <div class="p-group mt-8">
       <h2 class="mt-4">But the potential upside is enormous.</h2>
 
-      <p>If you currently have no sales material, or a page you wrote yourself…</p>
+      <p>If you currently have no sales material, or a page you wrote yourself (totally fine)…</p>
 
       <p>
         You’ll receive an aesthetic, psychology-laden sales page. It will convert and you’ll go from
@@ -1061,7 +1061,7 @@
 <!-- ########################## -->
 
 <WideBox>
-  <div class="mt-4 px-20 pt-6 pb-10 p-group bg-blue">
+  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-blue">
     <h2 class="mt-4 underline font-bold text-center pr-8">Frequently Asked Questions</h2>
     <h3 class="mt-4 text-2xl">Q: “What if I don’t have a product or service ready to sell?”</h3>
 

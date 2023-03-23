@@ -1,3 +1,3 @@
-<div class="bg-green px-20 py-4 pb-8">
+<div class="bg-green px-4 sm:px-12 lg:px-40 py-4 pb-8">
   <slot />
 </div>
