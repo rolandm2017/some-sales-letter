@@ -9,10 +9,13 @@
   import WideBox from '../components/WideBox.svelte'
 
   import '../app.css'
+  import FloatyHeader from '../components/FloatyHeader.svelte'
 </script>
 
+<FloatyHeader />
+<div class="h-24" />
 <div class="w-full flex flex-col items-center bg-nigh-black">
-  <div class="w-11/12 sm:w-10/12 md:w-8/12 mt-16 h-full">
+  <div class="w-11/12 sm:w-10/12 md:w-8/12 mt-8 h-full">
     <div class="pb-12 h-3/5 flex items-center">
       <h1 class="font-bold text-center text-off-white">
         Get Your <span class="text-red">Money Making Machine</span> Running 24/7 Using a Psychology-Laden
