@@ -358,7 +358,7 @@
   ><PaddingBox>
     <div>
       <div class="p-group">
-        <h2 class="mt-4">
+        <h2 class="mt-8 font-bold">
           You might have a great offer that nonetheless <span class="italic">looks</span> doomed to failure
           because of the “saturated” nature of your market.
         </h2>
@@ -441,8 +441,9 @@
   ><PaddingBox>
     <div class="p-group mt-4 mb-8">
       <h2>
-        Ask me how I’ll do it and I’ll tell you exactly what I do to accomplish this. In fact, I’ll
-        tell you now so you can head off to write your own page if you want to.
+        Ask me how I’ll do it and I’ll tell you <span class="font-bold"
+          >exactly what I do to accomplish this.</span
+        > In fact, I’ll tell you now so you can head off to write your own page if you want to.
       </h2>
       <p>Here’s the tools we’ll use to get the job done:</p>
     </div>
@@ -703,7 +704,7 @@
       </p>
     </div>
     <div class="p-group">
-      <h2 class="mt-4">
+      <h2 class="mt-4 font-bold">
         Not sure you need anyone’s help? Here’s what you could do to do this yourself.
       </h2>
       <p>Start by reading the following list of books:</p>
@@ -779,7 +780,7 @@
       <p>You can skip the whole thing.</p>
     </div>
     <div class="p-group">
-      <h2 class="mt-4">
+      <h2 class="mt-4 font-bold">
         Here’s what will save you reading 1903 pages of text, working for a year in sales, and
         spending $4,000 on in-person hypnotism training:
       </h2>
@@ -932,7 +933,7 @@
 <StandardBox>
   <PaddingBox>
     <div class="p-group mt-8">
-      <h2 class="mt-4">But the potential upside is enormous.</h2>
+      <h2 class="mt-4 font-bold">But the potential upside is enormous.</h2>
 
       <p>If you currently have no sales material, or a page you wrote yourself (totally fine)…</p>
 
@@ -941,7 +942,7 @@
         $0/month to $1,000 / week and beyond for as long as you’re sending it traffic.
       </p>
 
-      <p>This offer won’t last forever.</p>
+      <p class="font-bold">This offer won’t last forever.</p>
 
       <p>
         You are reading about an offer that I guarantee will disappear within a few months’ time.
