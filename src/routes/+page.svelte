@@ -403,7 +403,7 @@
           </p>
           <li class="list-decimal ml-12">What makes it scarce or exclusive?</li>
           <p>
-            Free game: <span class="underline"
+            Free game: <span class="font-bold"
               >When you’re below 10,000 Twitter followers, and you’re the only one offering a
               specific piece of advice, your help is, by definition, both</span
             >.
@@ -1119,72 +1119,74 @@
   </div>
 </WideBox>
 
-<StandardBox>
-  <PaddingBox>
-    <div class="p-group">
-      <h2 class="mt-4">
-        If you haven’t sold your first $100 online, you don’t know how good that first sale feels
-      </h2>
-      <h2 class="mt-4">
-        If you’re already making sales online, you know that the notification of a transaction is a
-        rush like no other.
-      </h2>
-      <p>
-        Either way, you know you want to sell so often that the rush goes away, and you’re just…
-      </p>
+<div class="bg-nigh-black">
+  <StandardBox>
+    <PaddingBox>
+      <div class="p-group text-off-white-container">
+        <h2 class="mt-12 font-bold">
+          If you haven’t sold your first $100 online, you don’t know how good that first sale feels
+        </h2>
+        <h2 class="mt-4 font-bold">
+          If you’re already making sales online, you know that the notification of a transaction is
+          a rush like no other.
+        </h2>
+        <p class="">
+          Either way, you know you want to sell so often that the rush goes away, and you’re just…
+        </p>
 
-      <p>Wealthy.</p>
+        <p class="">Wealthy.</p>
 
-      <p>At which point a sale is a notification like any other.</p>
+        <p class="">At which point a sale is a notification like any other.</p>
 
-      <p>But so far, the notifications don’t bore you yet.</p>
+        <p class="">But so far, the notifications don’t bore you yet.</p>
 
-      <p>
-        Because you are at the point where a 5 figure price tag on a sales funnel that might not
-        work is too risky.
-      </p>
+        <p>
+          Because you are at the point where a 5 figure price tag on a sales funnel that might not
+          work is too risky.
+        </p>
 
-      <p>So sign up today to work with Cicada (before someone else takes your spot).</p>
-    </div>
-    <div class="mt-6 mb-12 w-full flex justify-center">
-      <BigBeautifulButton />
-    </div>
-    <div class="p-group">
-      <h2 class="mt-4">And get these bonuses when you sign up today:</h2>
+        <p>So sign up today to work with Cicada (before someone else takes your spot).</p>
+      </div>
+      <div class="mt-6 mb-12 w-full flex justify-center">
+        <BigBeautifulButton />
+      </div>
+      <div class="p-group text-off-white-container">
+        <h2 class="mt-4">And get these bonuses when you sign up today:</h2>
 
-      <p>
-        <span class="underline">BONUS #1</span>: Learn a repeatable routine you can use right from
-        your Twitter account to craft your own money making machines and boost your sales. (Hint: If
-        you’re already doing it, you’ll know you’re on the right path.)
-      </p>
+        <p>
+          <span class="underline">BONUS #1</span>: Learn a repeatable routine you can use right from
+          your Twitter account to craft your own money making machines and boost your sales. (Hint:
+          If you’re already doing it, you’ll know you’re on the right path.)
+        </p>
 
-      <p>
-        <span class="underline">BONUS #2</span>: Receive a popular interview that will help you 10x
-        your sales.
-      </p>
+        <p>
+          <span class="underline">BONUS #2</span>: Receive a popular interview that will help you
+          10x your sales.
+        </p>
 
-      <p>
-        <span class="underline">BONUS #3</span>: Find out how $17.99 can get you the exact advice
-        you’d get from a world class online salesman. (Hint: This will give you a wealth of ideas
-        about what to sell next.)
-      </p>
+        <p>
+          <span class="underline">BONUS #3</span>: Find out how $17.99 can get you the exact advice
+          you’d get from a world class online salesman. (Hint: This will give you a wealth of ideas
+          about what to sell next.)
+        </p>
 
-      <p>
-        <span class="underline">BONUS #4</span>: See four high performing, master-made sales pages
-        (that will show you how a sales page can sell… without looking “scammy”)
-      </p>
+        <p>
+          <span class="underline">BONUS #4</span>: See four high performing, master-made sales pages
+          (that will show you how a sales page can sell… without looking “scammy”)
+        </p>
 
-      <p>
-        Get these bonuses and a sales page for your offer today. You will receive a page that
-        <span class="underline">converts so well you’ll demand I accept a commission</span>. Click
-        below to sign up.
-      </p>
-    </div>
-    <div class="mt-12 mb-64 w-full flex justify-center">
-      <BigBeautifulButton />
-    </div>
-  </PaddingBox>
-</StandardBox>
+        <p>
+          Get these bonuses and a sales page for your offer today. You will receive a page that
+          <span class="underline">converts so well you’ll demand I accept a commission</span>. Click
+          below to sign up.
+        </p>
+      </div>
+      <div class="mt-12 mb-64 w-full flex justify-center">
+        <BigBeautifulButton />
+      </div>
+    </PaddingBox>
+  </StandardBox>
+</div>
 
 <style>
   h1 {
@@ -1214,5 +1216,9 @@
 
   .persuasion-tool p {
     margin-top: 18px;
+  }
+
+  .text-off-white-container * {
+    color: #e5eef5;
   }
 </style>

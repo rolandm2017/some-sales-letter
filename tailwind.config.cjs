@@ -12,7 +12,7 @@ module.exports = {
         red: '#E7A0A0',
         sand: '#F5EFD8',
         blue: '#BFF3FF',
-        action: '#FFCBA9',
+        action: '#EB911C',
       },
     },
   },
