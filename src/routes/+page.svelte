@@ -20,7 +20,7 @@
       </h1>
     </div>
     <div class="h-2/5">
-      <div class="h-full px-4 sm:px-12 lg:px-40 py-8 flex items-center bg-sand">
+      <div class="h-full px-4 sm:px-12 lg:px-24 xl:px-40 py-8 flex items-center bg-sand">
         <h2 class="font-bold text-center text-nigh-black">
           What if you had a beautiful website that would do the selling for you just by sending it
           traffic?
@@ -333,7 +333,7 @@
 >
 
 <WideBox>
-  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-sand">
+  <div class="mt-4 px-4 sm:px-12 lg:px-24 xl:px-40 pt-6 pb-10 p-group bg-sand">
     <h3 class="mt-4 mb-8 underline text-center text-4xl">The process: Two critical steps</h3>
     <h4 class="underline text-3xl">Critical step #1</h4>
     <p>Be prepared to make cash by posting social media content every day or almost every day.</p>
@@ -717,7 +717,7 @@
           <li class="list-disc">How to Argue and Win Every Time by Gerry Spence (292 pages)</li>
         </ul>
       </ExtraPaddingLeft>
-      <div class="bg-off-white mt-4 px-4 sm:px-12 lg:px-40 py-4">
+      <div class="bg-off-white mt-4 px-4 sm:px-12 lg:px-24 xl:px-40 py-4">
         <h3 class="font-bold text-3xl text-red">
           You could be a dopamine fiend and set out to read all of those yourself.
         </h3>
@@ -887,7 +887,7 @@
 <!-- ################ -->
 
 <WideBox>
-  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-sand">
+  <div class="mt-4 px-4 sm:px-12 lg:px-24 xl:px-40 pt-6 pb-10 p-group bg-sand">
     <h2 class="mt-4 underline font-bold text-center pr-12">Try It Risk Free</h2>
     <p>Here’s what you’re <span class="underline">guaranteed</span> to get out of this:</p>
 
@@ -1063,7 +1063,7 @@
 <!-- ########################## -->
 
 <WideBox>
-  <div class="mt-4 px-4 sm:px-12 lg:px-40 pt-6 pb-10 p-group bg-blue">
+  <div class="mt-4 px-4 sm:px-12 lg:px-24 xl:px-40 pt-6 pb-10 p-group bg-blue">
     <h2 class="mt-4 underline font-bold text-center pr-8">Frequently Asked Questions</h2>
     <h3 class="mt-4 text-2xl">Q: “What if I don’t have a product or service ready to sell?”</h3>
 

@@ -691,7 +691,14 @@ video {
 }
 @media (min-width: 1024px) {
 
-  .lg\:px-40 {
+  .lg\:px-24 {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+}
+@media (min-width: 1280px) {
+
+  .xl\:px-40 {
     padding-left: 10rem;
     padding-right: 10rem;
   }
