@@ -1124,7 +1124,7 @@
     <PaddingBox>
       <div class="p-group text-off-white-container">
         <h2 class="mt-12 font-bold">
-          If you haven’t sold your first $100 online, you don’t know how good that first sale feels
+          If you haven’t sold your first $100 online, you don’t know how good that first sale feels.
         </h2>
         <h2 class="mt-4 font-bold">
           If you’re already making sales online, you know that the notification of a transaction is
