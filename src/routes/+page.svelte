@@ -7,6 +7,8 @@
   import StandardBox from '../components/StandardBox.svelte'
   import TechniqueHeadline from '../components/TechniqueHeadline.svelte'
   import WideBox from '../components/WideBox.svelte'
+
+  import '../app.css'
 </script>
 
 <div class="w-full flex flex-col items-center bg-nigh-black">
