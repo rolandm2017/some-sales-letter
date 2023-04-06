@@ -375,7 +375,7 @@
         </p>
         <p>You will be fine or better than fine.</p>
         <p>Because you don’t have to:</p>
-        <ul>
+        <ul class="ml-12 mt-2">
           <li class="list-decimal">
             Drop 6 figures per year on a marketing agency to make and “maintain” your marketing.
           </li>
