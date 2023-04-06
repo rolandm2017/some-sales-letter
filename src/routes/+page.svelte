@@ -376,14 +376,14 @@
         <p>You will be fine or better than fine.</p>
         <p>Because you don’t have to:</p>
         <ul>
-          <li>
+          <li class="list-decimal">
             Drop 6 figures per year on a marketing agency to make and “maintain” your marketing.
           </li>
-          <li>
+          <li class="list-decimal">
             Drop yet another 6 figures on a market research firm to “discover” what you likely
             already know about your buyers.
           </li>
-          <li>
+          <li class="list-decimal">
             Grind through 8 weeks of evenings and weekends while holding down your 9-5 to handle
             your marketing.
           </li>
