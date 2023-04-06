@@ -418,14 +418,16 @@
             so we’ll show them how the real risk is missing out on buying.
           </p>
         </ol>
-        <p class="underline">
-          But even if you have absolutely no idea how to answer these questions at the moment...
-        </p>
-        <p>
-          You’re in luck: Fortunately, you don’t need to have an answer to any of these questions
-          right this second.
-        </p>
-        <p>We’ll talk and I’ll <span class="underline">give you answers</span> to all of them.</p>
+        <div class="bg-green my-4 px-8 py-4">
+          <p class="underline">
+            But even if you have absolutely no idea how to answer these questions at the moment...
+          </p>
+          <p>
+            You’re in luck: Fortunately, you don’t need to have an answer to any of these questions
+            right this second.
+          </p>
+          <p>We’ll talk and I’ll <span class="underline">give you answers</span> to all of them.</p>
+        </div>
         <p>
           Then I’ll write for two weeks (tops) and you will receive a full sales page absolutely
           filled with psychology and sales techniques.
