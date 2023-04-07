@@ -390,13 +390,15 @@
         </ul>
         <h2 class="underline mt-4">Here’s the ingredients of a successful offer:</h2>
         <ol type="1" class="mixed-group">
-          <li class="list-decimal ml-12">Your offer needs to be unique.</li>
+          <li class="list-decimal ml-12">Your offer needs to be unique in some way.</li>
           <p>
             You might think the way to succeed is to “be the best”... But when every offer out there
             is saying it, it’s really about how you’re different. What can they get from you but no
             one else?
           </p>
-          <li class="list-decimal ml-12">You need to have proof that it works.</li>
+          <li class="list-decimal ml-12">
+            You need to have proof that it works for someone -- even if it's you.
+          </li>
           <p>
             Every potential buyer and their mom will have the same question: Will this work for me?
           </p>
@@ -406,10 +408,8 @@
           </p>
           <li class="list-decimal ml-12">What makes it scarce or exclusive?</li>
           <p>
-            Free game: <span class="font-bold"
-              >When you’re below 10,000 Twitter followers, and you’re the only one offering a
-              specific piece of advice, your help is, by definition, both</span
-            >.
+            When you’re below 10,000 Twitter followers, and you’re the only one offering a specific
+            piece of advice, your help is, by definition, both.
           </p>
           <li class="list-decimal ml-12">How is it completely risk-free?</li>
           <p>
