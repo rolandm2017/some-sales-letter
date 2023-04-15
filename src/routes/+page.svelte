@@ -527,25 +527,7 @@
         </p>
       </RedBox>
     </div>
-    <div class="persuasion-tool">
-      <GreenBox>
-        <TechniqueHeadline text="Identity." />
 
-        <p>
-          Your sales page will link staying the same with negative characteristics they’d like to
-          leave behind, and link investment in the offer with an entirely likely improvement in
-          their character that they can confidently anticipate will last long into the future.
-        </p>
-      </GreenBox>
-      <RedBox>
-        <p>
-          <span class="underline">But we’ll never</span>: Say directly that they should feel guilty
-          or ashamed of who they are, because they did their best and so will we. (Though they might
-          not like the consequences of what others think of them.)
-        </p>
-        <p class="italic">Speaking of doing their best, we’ll explain how it’s not their...</p>
-      </RedBox>
-    </div>
     <div class="persuasion-tool">
       <GreenBox>
         <TechniqueHeadline text="Fault." />
