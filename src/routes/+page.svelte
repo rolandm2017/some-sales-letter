@@ -510,8 +510,8 @@
           good, great) life on the horizon.
         </p>
         <p>
-          That could mean having more material possessions, or, crucially, it could mean becoming a
-          better person: a more attractive character.
+          That could mean having more material possessions, or, crucially, it could mean becoming
+          better: an attractive character.
         </p>
       </GreenBox>
       <RedBox>
